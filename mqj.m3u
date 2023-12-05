@@ -189,61 +189,61 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?lov
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/SiTV金色学堂.png" group-title="//SITV",SiTV金色学堂
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?love=freedom
 
-#EXTINF:-1 tvg-name="超级电影" group-title="IPV6·数字",NewTv超级电影「IPV6」
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电影.png" group-title="NewTv",NewTv超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" group-title="IPV6·数字",NewTv超级电视剧「IPV6」
+#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电视剧.png" group-title="NewTv",NewTv超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" group-title="IPV6·数字",NewTv超级体育「IPV6」
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTv超级体育.png" group-title="NewTv",NewTv超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="超级综艺" group-title="IPV6·数字",NewTv超级综艺「IPV6」
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv超级综艺.png" group-title="NewTv",NewTv超级综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="金牌综艺" group-title="IPV6·数字",NewTv金牌综艺「IPV6」
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv金牌综艺.png" group-title="NewTv",NewTv金牌综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-name="东北热剧" group-title="IPV6·数字",NewTv东北热剧「IPV6」
+#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTv东北热剧.png" group-title="NewTv",NewTv东北热剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-name="精品萌宠" group-title="IPV6·数字",NewTv精品萌宠「IPV6」
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NewTv精品萌宠.png" group-title="NewTv",NewTv精品萌宠
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-name="哒啵电竞" group-title="IPV6·数字",NewTv哒啵电竞「IPV6」
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/NewTv哒啵电竞.png" group-title="NewTv",NewTv哒啵电竞
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
-#EXTINF:-1 tvg-name="哒啵赛事" group-title="IPV6·数字",NewTv哒啵赛事「IPV6」
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/NewTv哒啵赛事.png" group-title="NewTv",NewTv哒啵赛事
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-name="欢乐剧场" group-title="IPV6·数字",NewTv欢乐剧场「IPV6」
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv欢乐剧场.png" group-title="NewTv",NewTv欢乐剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" group-title="IPV6·数字",NewTv黑莓动画「IPV6」
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTv黑莓动画.png" group-title="NewTv",NewTv黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" group-title="IPV6·数字",NewTv黑莓电影「IPV6」
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NewTv黑莓电影.png" group-title="NewTv",NewTv黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-name="怡伴健康" group-title="IPV6·数字",NewTv怡伴健康「IPV6」
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTv怡伴健康.png" group-title="NewTv",NewTv怡伴健康
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-name="潮妈辣婆" group-title="IPV6·数字",NewTv潮妈辣婆「IPV6」
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTv潮妈辣婆.png" group-title="NewTv",NewTv潮妈辣婆
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-name="军旅剧场" group-title="IPV6·数字",NewTv军旅剧场「IPV6」
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv军旅剧场.png" group-title="NewTv",NewTv军旅剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-name="中国功夫" group-title="IPV6·数字",NewTv中国功夫「IPV6」
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTv中国功夫.png" group-title="NewTv",NewTv中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-name="农业致富" group-title="IPV6·数字",NewTv农业致富「IPV6」
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTv农业致富.png" group-title="NewTv",NewTv农业致富
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-name="动作电影" group-title="IPV6·数字",NewTv动作电影「IPV6」
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTv动作电影.png" group-title="NewTv",NewTv动作电影
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" group-title="IPV6·数字",NewTv家庭剧场「IPV6」
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv家庭剧场.png" group-title="NewTv",NewTv家庭剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-name="惊悚悬疑" group-title="IPV6·数字",NewTv惊悚悬疑「IPV6」
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTv惊悚悬疑.png" group-title="NewTv",NewTv惊悚悬疑
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-name="武博世界" group-title="IPV6·数字",NewTv武博世界「IPV6」
+#EXTINF:-1 tvg-id="武博世界" tvg-name="武博世界" tvg-logo="https://live.fanmingming.com/tv/NewTv武博世界.png" group-title="NewTv",NewTv武博世界
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-name="炫舞未来" group-title="IPV6·数字",NewTv炫舞未来「IPV6」
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTv炫舞未来.png" group-title="NewTv",NewTv炫舞未来
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-name="爱情喜剧" group-title="IPV6·数字",NewTv爱情喜剧「IPV6」
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NewTv爱情喜剧.png" group-title="NewTv",NewTv爱情喜剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2778199896_-991379679/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-name="精品体育" group-title="IPV6·数字",NewTv精品体育「IPV6」
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/NewTv精品体育.png" group-title="NewTv",NewTv精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-name="精品大剧" group-title="IPV6·数字",NewTv精品大剧「IPV6」
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/NewTv精品大剧.png" group-title="NewTv",NewTv精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-name="军事评论" group-title="IPV6·数字",NewTv军事评论「IPV6」
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTv军事评论.png" group-title="NewTv",NewTv军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-name="精品记录" group-title="IPV6·数字",NewTv精品记录「IPV6」
+#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://live.fanmingming.com/tv/NewTv精品记录.png" group-title="NewTv",NewTv精品记录
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-name="明星大片" group-title="IPV6·数字",NewTv明星大片「IPV6」
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTv明星大片.png" group-title="NewTv",NewTv明星大片
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 
 #EXTINF:-1 tvg-name="null" group-title="IPV6·数字",iHOT爱悬疑「IPV6」
